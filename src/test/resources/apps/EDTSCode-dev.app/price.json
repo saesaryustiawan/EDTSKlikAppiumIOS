@@ -1,0 +1,14 @@
+[
+    {
+        "type": 0,
+        "name":"Semua"
+    },
+    {
+        "type": 1,
+        "name":"Normal"
+    },
+    {
+        "type": 2,
+        "name":"Promosi"
+    }
+]

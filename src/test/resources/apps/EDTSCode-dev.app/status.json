@@ -1,0 +1,49 @@
+[
+    {
+        "status": "",
+        "name":"Semua Status Transaksi",
+        "constant": ""
+    },
+    {   "status": "01",
+        "name":"Menunggu Pembayaran",
+        "constant": "UNPAID"
+    },
+    {   "status": "02",
+        "name":"Pembayaran Berhasil",
+        "constant": "PAID"
+    },
+    {   "status": "03",
+        "name":"Pesanan Sedang Diproses",
+        "constant": "ON_PROCESS"
+    },
+    {
+        "status": "04",
+        "name":"Pesanan Selesai Dikemas",
+        "constant": "PACKAGING"
+    },
+    {
+        "status": "05A",
+        "name":"Pesanan Segera Dikirim",
+        "constant": "WAITING_PICKUP"
+    },
+    {
+        "status": "05B",
+        "name":"Sedang Dikirim",
+        "constant": "SHIPPING"
+    },
+    {
+        "status": "06",
+        "name":"Pesanan Diterima",
+        "constant": "DELIVERY_COMPLETE"
+    },
+    {
+        "status": "09",
+        "name":"Selesai",
+        "constant": "CONFIRMED"
+    },
+    {
+        "status": "B1",
+        "name":"Pesanan Dibatalkan",
+        "constant": "CANCELLED"
+    }
+]

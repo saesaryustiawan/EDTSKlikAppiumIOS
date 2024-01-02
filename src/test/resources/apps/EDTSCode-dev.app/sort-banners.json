@@ -1,0 +1,9 @@
+[
+  {
+    "sort": "asc",
+    "name": "Terbaru"
+  },
+  { "sort": "desc",
+    "name": "Hampir Berakhir"
+  }
+]

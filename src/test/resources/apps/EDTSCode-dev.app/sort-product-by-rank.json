@@ -1,0 +1,18 @@
+[
+    {
+        "sort": "rank,asc",
+        "name":"Paling Sesuai"
+    },
+    {   "sort": "publishedDate,desc",
+        "name":"Produk Terbaru"
+    },
+    {   "sort": "bestSeller,desc",
+        "name":"Produk Terlaris"
+    },
+    {   "sort": "price,asc",
+        "name":"Harga Terendah"
+    },
+    {   "sort": "price,desc",
+        "name":"Harga Tertinggi"
+    }
+]

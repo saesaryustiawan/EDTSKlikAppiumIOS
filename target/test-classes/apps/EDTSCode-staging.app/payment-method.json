@@ -1,0 +1,42 @@
+[
+  {
+    "walletName": "Saldo",
+    "walletCode": "BPSALDO",
+    "balance": 0,
+    "linkUrl": null,
+    "linked": null,
+    "imageName": "ic_wallet_yellow",
+    "active": false,
+    "isShimmering": false
+  },
+  {
+    "walletName": "Isaku",
+    "walletCode": "ISAKU",
+    "balance": 0,
+    "linkUrl": null,
+    "linked": null,
+    "imageName": "ic_payment_isaku",
+    "active": false,
+    "isShimmering": false
+  },
+  {
+    "walletName": "Shopee Pay",
+    "walletCode": "SHOPEEPAY",
+    "balance": 0,
+    "linkUrl": null,
+    "linked": null,
+    "imageName": "ic_payment_shopeepay",
+    "active": false,
+    "isShimmering": false
+  },
+  {
+    "walletName": "OVO",
+    "walletCode": "OVO",
+    "balance": 0,
+    "linkUrl": null,
+    "linked": null,
+    "imageName": "ic_payment_ovo",
+    "active": false,
+    "isShimmering": false
+  }
+]
